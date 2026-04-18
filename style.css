@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'Smooth';
-    src: url('/font/Nightydemo.otf') format('opentype');
+    src: url('font/Nightydemo.otf') format('opentype');
 }
 
 *, *::before, *::after {
